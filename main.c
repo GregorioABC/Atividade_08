@@ -1,3 +1,5 @@
+//atividade 08
+//aluno : Gregório de Albuquerque Borba Cavalcanti
 //1
 // #include <stdio.h>
 // int somatorio(int n){
